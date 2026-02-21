@@ -1,0 +1,2 @@
+i complete upload file and do a verification as after login. 
+file uplaoded saved and report generated sucessfully next do frontend connections and UI design.
